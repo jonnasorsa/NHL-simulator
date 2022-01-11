@@ -1,1 +1,3 @@
 # NHL-simulator
+
+This is an NHL-simulator, which predicts whether or not a team will qualify for playoffs. It uses the team's offense, defense and goalie stats from the videogame NHL21. First it calculates how many times each opponent is matched based off the division of the team chosen. Then it randomizes the game order and determines whether the game will be a home game or an away game while keeping count that there will be 41 home- and 41 away games in a season. It also has an option to not take into account how good or bad the team is and bases its estimate entirely on the random number generated. Sadly the simulator is in Finnish.
